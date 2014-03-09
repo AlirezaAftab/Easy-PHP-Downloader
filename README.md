@@ -1,4 +1,4 @@
 Easy PHP Downloader
 ===
 
-php codes and scripts
+Easy Download Files to Your Host
